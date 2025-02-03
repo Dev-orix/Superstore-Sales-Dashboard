@@ -3,13 +3,13 @@ This project evaluates the yearly performance of different product categories wh
 
 Features:
 
-Pivot Tables for data segmentation
+- Pivot Tables for data segmentation
 
-Charts & Graphs for visual representation
+- Charts & Graphs for visual representation
 
-Slicers & Timelines for interactive exploration
+- Slicers & Timelines for interactive exploration
 
-Effective Color Usage for better readability
+- Effective Color Usage for better readability
 
-Conditional Formatting for dynamic emphasis
+- Conditional Formatting for dynamic emphasis
 
